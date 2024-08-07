@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('https://raw.githubusercontent.com/TooMuchJack/brogotawholegithub/main/IMG_0060.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+</style>
+</head>
+<body>
+
+<h1>Silent Guy Not Smart</h2>
+
+<p>Bro got a whole website 🙏😭</p>
+<style>
+        h1, p {
+            color: white;
+        }
+        body {
+            background-color: black; /* This is optional but makes white text stand out */
+        }
+    </style>
+</body>
+</html>
+
